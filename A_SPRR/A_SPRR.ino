@@ -30,6 +30,8 @@ uint64_t rfidTime = 0;
 
 String amount = "0.00";
 
+// coba coba
+
 //The setup function is called once at startup of the sketch
 void setup()
 {
