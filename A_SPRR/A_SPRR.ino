@@ -23,6 +23,8 @@ uint8_t mType = 3;
 
 String mID = "A9B8C7";
 
+//baru
+
 int topupDenom[5] = {5,10,30,50,100};
 int topupDenomSize = sizeof(topupDenom) / sizeof(topupDenom[0]);
 
