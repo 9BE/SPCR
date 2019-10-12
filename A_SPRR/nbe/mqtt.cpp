@@ -8,7 +8,7 @@
 #include "mqtt.h"
 
 
-// update baru
+// update baru jfjfj
 mqtt::mqtt() {
 	// TODO Auto-generated constructor stub
 
